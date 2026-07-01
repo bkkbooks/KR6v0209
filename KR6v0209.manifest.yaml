@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6v0209/v1
+canonical_location: https://kanripo.org/bkk/KR6v0209/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 僧暈等造像記
+  identifiers:
+    alt_id:
+    - I01n0010
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0010.xml
+    old_id: I01n0010
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0209_000.yaml, hash: 'sha256:3bba3ff9b3571bece4af4adc5c67a27cf276edfb1697e497e8e1701c2c2bc86a'}
+  - {seq: 1, filename: KR6v0209_001.yaml, hash: 'sha256:67e9a45ea430811b62c48e8efb194c82ac2350c4060b3061f8d98788729818b2'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0209_001.markers.yaml, hash: 'sha256:447c1e4f7b6e6e093677c740e9770619996d3df17c2321b2678078979b4eaf69'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0209_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 146
+  label: 僧暈等造像記
+  type: juan
+  level: 1
+hash: sha256:699055e445fd268b032406ef14c3f81a3b56318c4022102c782e45ad99d6381a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

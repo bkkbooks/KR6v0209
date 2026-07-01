@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0209/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 僧暈等造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0010.xml
+    old_id: I01n0010
+hash: sha256:3bba3ff9b3571bece4af4adc5c67a27cf276edfb1697e497e8e1701c2c2bc86a
